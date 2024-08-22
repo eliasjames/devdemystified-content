@@ -1,0 +1,12 @@
+** The key to efficient development
+------------------------------------------------------------
+Hi *|FNAME|*,
+
+By now, you’ve executed some of the core concepts of development. You’ve noticed how important testing is to ensuring clean, consistent effective code. And you’ve probably noticed that, as we write more and more tests, we're starting to repeat ourselves, which means duplicating a lot of code.
+
+Duplicated code isn’t very efficient, and it invites the opportunity for error. So today, we'll see how to "refactor" to keep our code lean and simultaneously increase its expressive power.
+Take me to the lesson (https://github.com/devdemystified/intro-art-of-programming/blob/master/lessons/03-refactor-tests)
+Go to the Github repository (https://github.com/devdemystified/intro-art-of-programming/blob/master/lessons/03-refactor-tests) for step-by-step instructions on how to refactor your code.
+
+Hope you’re learning a lot! Drop us a note if you have any questions at info@devdemystified.com (mailto:info@devdemystified.com?subject=I%20have%20questions) .
+

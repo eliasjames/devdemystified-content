@@ -1,0 +1,10 @@
+Hi *|FNAME|*,
+
+Welcome to lesson four! You’ve learned a lot in just a few days: from variables to operators to why testing is the foundation of every application. Today we’re going to cover a more demanding feature in your code’s logic: checking the state of the game.
+
+“State” is a term from science which means ‘the complete current condition’. The state of a TV set includes whether it’s on or off, the channel, the volume, the picture settings, any burnt-out pixels, everything. It’s easy to make state complicated, but hard to do simply. We'll start with the easy way, and then refactor.
+Take me to the lesson (https://github.com/devdemystified/intro-art-of-programming/tree/master/lessons/04-check-winner)
+Go to the Github repository (https://github.com/devdemystified/intro-art-of-programming/tree/master/lessons/04-check-winner) for step-by-step instructions on how to check state.
+
+p.s. Will you take a moment to answer three questions (https://us10.list-manage.com/survey?u=df1349a0856e4b3a54e299d2b&id=02587727b9) about how it's going?
+

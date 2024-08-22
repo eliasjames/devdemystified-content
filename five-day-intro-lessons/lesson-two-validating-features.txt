@@ -1,0 +1,19 @@
+** Everyone needs a little validation
+------------------------------------------------------------
+
+In today’s lesson, you’re going to learn how to build the tic-tac-toe board in your browser and ensure it always contains valid data. To do that, you'll learn how techniques like error handling and input validation add stability to your game.
+Let's Get Started (https://github.com/devdemystified/intro-art-of-programming/blob/master/lessons/02-validate-features/README.md)
+https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom
+
+
+**
+------------------------------------------------------------
+
+Go to the Github repository (https://github.com/devdemystified/intro-art-of-programming/blob/master/lessons/02-validate-features/README.md) for step-by-step instructions on how to start your tic-tac-toe board.
+
+
+Have fun!
+
+
+p.s. Will you take a moment to provide your feedback on the course (https://us10.list-manage.com/survey?u=df1349a0856e4b3a54e299d2b&id=3e63d49b5b) so far?
+

@@ -1,0 +1,12 @@
+** Welcome to your first lesson!
+------------------------------------------------------------
+For our subject matter, we’re going to build a tic-tac-toe game. This simple game is a great way to learn the core task of programming: breaking a problem down into its smallest possible components.
+
+Today, we'll dive into the basics by building an automation testing tool. Every time we add a new feature to the game, we want to make sure all the previous features still work. Instead of manually trying every feature every time, we’ll write some code that tries the features for us. That’s automated testing in a nutshell.
+Let's Get Started (https://github.com/devdemystified/intro-art-of-programming/blob/master/lessons/01-setup-and-test/README.md)
+Go to the Github repository (https://github.com/devdemystified/intro-art-of-programming/blob/master/lessons/01-setup-and-test/README.md) for step-by-step instructions on how to start with automated testing.
+
+Check out working examples for each step as you go, too. Need a little help getting started? Watch a walk through video, for Windows (https://youtu.be/Uifmw2O5F0w) or Mac (https://youtu.be/A-i2tsMcUvY) .
+
+Feeling stuck? Drop us a line at info@devdemystified.com (mailto:info@devdemystified.com?subject=Feeling%20stuck%2C%20lesson%20one%20of%20Intro%20to%20Programming) .
+

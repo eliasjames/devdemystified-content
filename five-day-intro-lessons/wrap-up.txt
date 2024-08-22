@@ -1,0 +1,14 @@
+** Congrats on finishing the course
+------------------------------------------------------------
+
+You’ve made it through the five day Dev Demystified crash course on web development. You’ve covered concepts like test driven development, error checking to ensure your app always performs consistently, objects and arrays and functions, oh my!
+
+We hope you found this class easy to use and helpful in your journey to learn more about development. Would you take a minute to let us know by answering two questions (https://us10.list-manage.com/survey?u=df1349a0856e4b3a54e299d2b&id=d160aa4b68) ?
+Take a quick survey (http://)
+
+
+** What’s next?
+------------------------------------------------------------
+
+Want to hear about other classes available from Dev Demystified? Sign up for our new class notifications (mailto:info@devdemystified.com?subject=new%20class%20notifications&body=Please%20let%20me%20know%20when%20new%20courses%20are%20available!) and we’ll drop you a line when new classes become available.
+

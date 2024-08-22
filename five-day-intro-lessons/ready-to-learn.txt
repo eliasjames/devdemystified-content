@@ -1,0 +1,15 @@
+Hi *|FNAME|*,
+
+We’re glad you’ve signed up for Dev Demystified’s five-day Intro to Programming course. Starting tomorrow, you’ll receive an email each day with your daily work tasks. Take a minute to read through what you’ll need to get started below. (The good news is you’ve probably already got it all!)
+
+What you’ll need to get started:
+
+A web browser. We recommend Google Chrome, but any modern browser (like Safari, Firefox, or Edge) will work. If you use another browser, some of the menu commands and console messages will be slightly different from the course examples.
+
+A text editor. A text editor is different than a word processor. Word processors like Google Docs or MS Word secretly insert invisible formatting into code and that causes issues. Fortunately, text editors are easy to come by. On Windows, you can use the built-in Notepad, but we recommend Atom, which you can download here (https://atom.io/) . On OSX, use the built-in TextEdit (or Atom).
+
+Each day of the class, you'll get an email with a link to Github, where you’ll find an easy to follow walkthrough and the code you need. You'll also get a link to a walkthrough video, or other resources related to that day's lesson.
+
+Throughout the course, we’ll occasionally ask you to answer a couple quick survey questions. Your feedback is greatly appreciated and will help us to improve the course. And if you have questions, feel free to email us at info@devdemystified.com (mailto:info@devdemystified.com?subject=Question%20about%20Intro%20to%20Programming) .
+
+That's it. Happy coding!
